@@ -1,4 +1,4 @@
-
+# 1
 # News Article Pop
 
 This project is part of the "20 Projects in 20 Days" challenge on Udemy, where I created a simple news article popup using HTML, CSS, and JavaScript.
